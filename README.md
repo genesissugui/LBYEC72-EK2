@@ -37,5 +37,5 @@ float computeCircleArea(float functionRadius){
 	
 	return PI*functionRadius*functionRadius;
 }
-```c
+```
 ![screenshot](https://github.com/genesissugui/LBYEC72-Practice/blob/master/Hello.png)
