@@ -1,5 +1,9 @@
+#THIS IS MY PRACTICE
+
 #include <stdio.h>
 #include <stdlib.h>
+
+```c
 
 #define PI 3.14159
 
@@ -34,3 +38,5 @@ float computeCircleArea(float functionRadius){
 	
 	return PI*functionRadius*functionRadius;
 }
+```c
+![screeenshot](https://github.com/genesissugui/LBYEC72-Practice/master/Hello.png)
