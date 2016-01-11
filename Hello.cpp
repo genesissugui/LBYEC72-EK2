@@ -1,9 +1,8 @@
 #THIS IS MY PRACTICE
 
+```c
 #include <stdio.h>
 #include <stdlib.h>
-
-```c
 
 #define PI 3.14159
 
